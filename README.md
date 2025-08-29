@@ -1,17 +1,17 @@
-🛌 Flutter Sleep Calculator App
+# 🛌 Flutter Sleep Calculator App
 
 A Flutter app that helps you find the best times to sleep or wake up based on the natural 90-minute sleep cycle. Inspired by sleepcalculator.com
 , this app makes it easy to wake up feeling refreshed.
 
-✨ Features
+# ✨ Features
 
-⏰ Two calculation modes:
+# ⏰ Two calculation modes:
 
 Enter a wake-up time → get suggested bedtimes.
 
 Enter a bedtime (or choose “Go to bed now”) → get suggested wake-up times.
 
-🧠 Smart sleep cycle logic:
+# 🧠 Smart sleep cycle logic:
 
 Each sleep cycle = 90 minutes.
 
@@ -19,7 +19,7 @@ Adds a 15-minute buffer for falling asleep.
 
 Suggests 4–6 times so you can choose what works best.
 
-🎨 Modern UI:
+# 🎨 Modern UI:
 
 Built with Material 3 (Material You).
 
@@ -27,15 +27,15 @@ Dark & Light mode support.
 
 Clean, minimal design with card-based results.
 
-📱 Cross-platform:
+# 📱 Cross-platform:
 
 Works on Android, iOS, and Web.
 
-🎬 Smooth animations:
+# 🎬 Smooth animations:
 
 Results fade/slide in for a polished feel.
 
-📸 Screenshots
+# 📸 Screenshots
 
 
 ![WhatsApp Image 2025-08-30 at 01 39 10_728ed9cb](https://github.com/user-attachments/assets/557c89a3-45bd-4ee4-a760-7ab572187d41)
@@ -49,7 +49,7 @@ Results fade/slide in for a polished feel.
 
 	
 	
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Flutter
  (latest stable)
@@ -61,7 +61,7 @@ Dart null-safety
 
 Responsive layout for mobile and web
 
-🚀 Getting Started
+# 🚀 Getting Started
 Prerequisites
 
 Install Flutter SDK
@@ -70,7 +70,7 @@ Set up your IDE (VS Code / Android Studio recommended)
 
 Installation
 # Clone the repo
-git clone https://github.com/your-username/sleep-calculator.git
+git clone https://github.com/aqibtufail7546/flutter_sleep_calculator.git
 
 # Navigate to the project
 cd sleep-calculator
