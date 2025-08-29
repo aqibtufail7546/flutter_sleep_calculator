@@ -5,13 +5,13 @@ A Flutter app that helps you find the best times to sleep or wake up based on th
 
 # ✨ Features
 
-# ⏰ Two calculation modes:
+⏰ Two calculation modes:
 
 Enter a wake-up time → get suggested bedtimes.
 
 Enter a bedtime (or choose “Go to bed now”) → get suggested wake-up times.
 
-# 🧠 Smart sleep cycle logic:
+🧠 Smart sleep cycle logic:
 
 Each sleep cycle = 90 minutes.
 
@@ -19,7 +19,7 @@ Adds a 15-minute buffer for falling asleep.
 
 Suggests 4–6 times so you can choose what works best.
 
-# 🎨 Modern UI:
+🎨 Modern UI:
 
 Built with Material 3 (Material You).
 
@@ -27,11 +27,11 @@ Dark & Light mode support.
 
 Clean, minimal design with card-based results.
 
-# 📱 Cross-platform:
+📱 Cross-platform:
 
 Works on Android, iOS, and Web.
 
-# 🎬 Smooth animations:
+🎬 Smooth animations:
 
 Results fade/slide in for a polished feel.
 
